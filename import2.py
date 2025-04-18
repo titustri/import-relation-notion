@@ -3,9 +3,9 @@ import json
 import pandas as pd
 
 # Ganti dengan token dan database ID yang sesuai
-NOTION_TOKEN = "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"
-DATABASE_ID = "16a56df6f8e68022b411d7f0b201dd70"
-RELATED_DATABASE_ID = "16856df6f8e680d1b699d8927608ff9b"
+NOTION_TOKEN = "xxxxxxxxxxxxxxx"
+DATABASE_ID = "xxxxxxxxxxxxxxxxxx"
+RELATED_DATABASE_ID = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 headers = {
     "Authorization": f"Bearer {NOTION_TOKEN}",
